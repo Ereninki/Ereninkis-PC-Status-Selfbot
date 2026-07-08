@@ -60,6 +60,8 @@ async function updatestatus() {
 
 await app.start();
 
+console.log("its just working how can i explain it")
+
 setInterval(async () => {
     try {
         if (laststatus === status) return;
