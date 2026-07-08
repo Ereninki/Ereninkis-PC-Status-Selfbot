@@ -10,8 +10,8 @@ This selfbot is changing your status by the usage of your pc
 
 # Dependeinces
 
-- npm
 - bun
+- git
 
   ***
 
