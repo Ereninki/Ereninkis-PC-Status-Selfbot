@@ -2,8 +2,6 @@
 
 This selfbot is changing your status by the usage of your pc
 
----
-
 # Tech Stacks
 
 - Typescript
