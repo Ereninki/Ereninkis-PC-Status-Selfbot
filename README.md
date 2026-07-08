@@ -17,4 +17,4 @@ This selfbot is changing your status by the usage of your pc
 
 # Installation
 
-if you're on windows just run the windows.bat for other just run unix.sh
+you just copy the root of this project on a folder and if you're on windows just run the windows.bat for other just run unix.sh
