@@ -6,7 +6,12 @@ This selfbot is changing your status by the usage of your pc
 
 - Typescript
 - Slack Bolt
-- [Systeminformation](https://www.npmjs.com/package/systeminformation)
+- [systeminformation](https://www.npmjs.com/package/systeminformation)
+
+# Dependeinces
+
+- npm
+- bun
 
   ***
 
