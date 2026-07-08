@@ -1,6 +1,6 @@
 import { App } from "@slack/bolt";
 import { WebClient } from "@slack/web-api";
-import si, { system } from "systeminformation";
+import si from "systeminformation";
 
 const client = new WebClient(process.env.SLACK_USER_TOKEN);
 var status = 0;
@@ -59,8 +59,7 @@ async function updatestatus() {
 }
 
 await app.start();
-
-console.log("its just working how can i explain it")
+console.log("selfbot started!!!");
 
 setInterval(async () => {
     try {
