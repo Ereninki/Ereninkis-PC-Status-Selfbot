@@ -3,7 +3,7 @@ import { WebClient } from "@slack/web-api";
 import si from "systeminformation";
 
 const client = new WebClient(process.env.SLACK_USER_TOKEN);
-var status = 0;
+var status = 99;
 var laststatus = 0;
 
 async function getsysteminfo() {
