@@ -1,6 +1,7 @@
 # Ereninki's PC Status Selfbot
 
 This selfbot is changing your status by the usage of your pc
+**NEW:** Now it can change your display name depending on which game you play!!!
 
 # Tech Stacks
 
